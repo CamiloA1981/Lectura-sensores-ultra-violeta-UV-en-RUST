@@ -10,7 +10,7 @@ De manera inicial, la implementación se realiza usando **Rust** como lenguaje d
 
 ---
 
-## 🇬🇧 Project Description
+## Project Description
 The idea is to implement an ultraviolet radiation measurement system using a **ZTS-300AL-RA-N01** sensor over the **RS485** industrial protocol, and receive the data on two types of embedded devices: an **ESP32-LoRa** and an **STM32 Nucleo (Nucleo-L073RZ)**.
 
 Initially, the implementation is done using **Rust** as the programming language, with the intention of advancing the development of embedded systems using Rust.
